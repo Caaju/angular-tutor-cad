@@ -1,0 +1,24 @@
+{
+  "product": [
+    {
+      "name": "Bicicleta infantil",
+      "price": "400.78",
+      "id": 4
+    },
+    {
+      "name": "Monitor",
+      "price": "1047.99",
+      "id": 5
+    },
+    {
+      "name": "Boneco Heeman",
+      "price": "78.47",
+      "id": 6
+    },
+    {
+      "name": "Xicara",
+      "price": 13.98,
+      "id": 7
+    }
+  ]
+}

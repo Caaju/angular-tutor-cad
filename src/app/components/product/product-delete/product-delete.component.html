@@ -1,0 +1,14 @@
+<mat-card class="create">
+    <mat-card-title>Remover Produto</mat-card-title>
+    <p>
+        {{product.name}}
+    </p>
+    <span class="button-row">
+        <button mat-raised-button color="warn" (click)="del()">
+            Sim
+        </button>
+        <button mat-raised-button (click)="cancel()" color="primary">
+            Cancelar
+        </button>
+    </span>
+</mat-card>
