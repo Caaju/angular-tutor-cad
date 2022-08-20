@@ -26,7 +26,6 @@ import { FormsModule } from '@angular/forms';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { ProductListComponent } from './components/product/product-list/product-list.component';
-import { ProductList2Component } from './components/product/product-list2/product-list2.component';
 import { MatTableModule } from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
@@ -48,7 +47,6 @@ registerLocaleData(localePt)
     ProductCrudComponent,
     ProductCreateComponent,
     ProductListComponent,
-    ProductList2Component,
     ProductEditComponent,
     ProductDeleteComponent
   ],
